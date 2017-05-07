@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color:#FFF;
+    background: #000 url('../images/arcade-background.png') repeat center center / cover fixed;
+
+}
+
+#game-title h1{
+	padding: 10px;
+	font-size: 26px;
+}

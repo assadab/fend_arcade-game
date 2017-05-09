@@ -1,6 +1,6 @@
 ## Classic Arcade Game
 
-This is a project for Udacity's Front End Development Nanodegree. To be able to view a live version, click here.
+This is a project for Udacity's Front End Development Nanodegree. To be able to view a live version, [click here](https://assadab.github.io/fend_arcade-game/).
 
 #### How to open application
 
